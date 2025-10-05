@@ -198,7 +198,7 @@ OSI Layer        TCP/IP Layer
 ## VII. Level Exercises with Visuals
 
 ### Level 1
-![Level 1](Screenshot_from_2025-10-05_16-31-40.png)
+![Level 1](dowllond/Screenshot_from_2025-10-05_16-31-40.png)
 
 ### Level 2
 ![Level 2](images/level2.png)
