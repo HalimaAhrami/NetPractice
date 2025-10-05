@@ -182,13 +182,9 @@ OSI Layer        TCP/IP Layer
 * Be ready for small modifications (edit IP, script, or display)
 
 ## 🎥 Level 1 Demo
-
 <video width="800" controls>
-  <source src="videos/e.mp4" type="video/mp4">
-  Your browser does not support the video tag.
+  <source src="https://youtu.be/J3W8aQkgsNI" type="video/mp4">
 </video>
-
-[Watch Level 1 demo](https://github.com/HalimaAhrami/NetPractice/raw/main/videos/e.mp4)
 
 
 ---
