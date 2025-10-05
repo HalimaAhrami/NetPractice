@@ -197,34 +197,72 @@ OSI Layer        TCP/IP Layer
 ---
 ## VII. Level Exercises with Visuals
 
-### Level 1
-![Level 1](dowllond/Screenshot_from_2025-10-05_16-31-40.png)
+## ⚙️ Level 1
+<p align="center">
+  <img src="images/level1.png" alt="Level 1 Topology" width="600"/>
+</p>
 
-### Level 2
-![Level 2](images/level2.png)
+---
 
-### Level 3
-![Level 3](images/level3.png)
+## ⚙️ Level 2
+<p align="center">
+  <img src="images/level2.png" alt="Level 2 Topology" width="600"/>
+</p>
 
-### Level 4
-![Level 4](images/level4.png)
+---
 
-### Level 5
-![Level 5](images/level5.png)
+## ⚙️ Level 3
+<p align="center">
+  <img src="images/level3.png" alt="Level 3 Topology" width="600"/>
+</p>
 
-### Level 6
-![Level 6](images/level6.png)
+---
 
-### Level 7
-![Level 7](images/level7.png)
+## ⚙️ Level 4
+<p align="center">
+  <img src="images/level4.png" alt="Level 4 Topology" width="600"/>
+</p>
 
-### Level 8
-![Level 8](images/level8.png)
+---
 
-### Level 9
-![Level 9](images/level9.png)
+## ⚙️ Level 5
+<p align="center">
+  <img src="images/level5.png" alt="Level 5 Topology" width="600"/>
+</p>
 
-### Level 10
-![Level 10](images/level10.png)
+---
+
+## ⚙️ Level 6
+<p align="center">
+  <img src="images/level6.png" alt="Level 6 Topology" width="600"/>
+</p>
+
+---
+
+## ⚙️ Level 7
+<p align="center">
+  <img src="images/level7.png" alt="Level 7 Topology" width="600"/>
+</p>
+
+---
+
+## ⚙️ Level 8
+<p align="center">
+  <img src="images/level8.png" alt="Level 8 Topology" width="600"/>
+</p>
+
+---
+
+## ⚙️ Level 9
+<p align="center">
+  <img src="images/level9.png" alt="Level 9 Topology" width="600"/>
+</p>
+
+---
+
+## ⚙️ Level 10
+<p align="center">
+  <img src="images/level10.png" alt="Level 10 Topology" width="600"/>
+</p>
 
 ---
