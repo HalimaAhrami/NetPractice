@@ -195,3 +195,56 @@ OSI Layer        TCP/IP Layer
 * **TCP/UDP:** Transport protocols
 
 ---
+## VIII. Level Exercises with Visuals
+
+### Level 1
+**Goal:** [Describe goal]  
+**Visual:**
+![Level 1](images/level1.png)
+
+### Level 2
+**Goal:** [Describe goal]  
+**Visual:**
+![Level 2](images/level2.png)
+
+### Level 3
+**Goal:** [Describe goal]  
+**Visual:**
+![Level 3](images/level3.png)
+
+### Level 4
+**Goal:** [Describe goal]  
+**Visual:**
+![Level 4](images/level4.png)
+
+### Level 5
+**Goal:** [Describe goal]  
+**Visual:**
+![Level 5](images/level5.png)
+
+### Level 6
+**Goal:** [Describe goal]  
+**Visual:**
+![Level 6](images/level6.png)
+
+### Level 7
+**Goal:** [Describe goal]  
+**Visual:**
+![Level 7](images/level7.png)
+
+### Level 8
+**Goal:** [Describe goal]  
+**Visual:**
+![Level 8](images/level8.png)
+
+### Level 9
+**Goal:** [Describe goal]  
+**Visual:**
+![Level 9](images/level9.png)
+
+### Level 10
+**Goal:** [Describe goal]  
+**Visual:**
+![Level 10](images/level10.png)
+
+---
