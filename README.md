@@ -183,7 +183,7 @@ OSI Layer        TCP/IP Layer
 
 ---
 
-## **VII. Glossary**
+## **VI. Glossary**
 
 * **Router:** Connects networks
 * **Switch:** Connects devices in LAN
@@ -195,7 +195,7 @@ OSI Layer        TCP/IP Layer
 * **TCP/UDP:** Transport protocols
 
 ---
-## VIII. Level Exercises with Visuals
+## VII. Level Exercises with Visuals
 
 ### Level 1
 ![Level 1](images/level1.png)
