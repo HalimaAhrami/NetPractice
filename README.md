@@ -181,7 +181,9 @@ OSI Layer        TCP/IP Layer
 * No external tools (calculator `bc` allowed)
 * Be ready for small modifications (edit IP, script, or display)
 
-[Watch Level 1 demo](https://github.com/<username>/NetPractice/raw/main/videos/e.mp4)
+<video width="700" controls>
+  <source src="https://<username>.github.io/NetPractice/videos/e.mp4" type="video/mp4">
+</video>
 
 ---
 
