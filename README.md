@@ -181,10 +181,8 @@ OSI Layer        TCP/IP Layer
 * No external tools (calculator `bc` allowed)
 * Be ready for small modifications (edit IP, script, or display)
 
-## 🎥 Level 1 Demo
-<video width="800" controls>
-  <source src="https://youtu.be/J3W8aQkgsNI" type="video/mp4">
-</video>
+[Watch the video on YouTube](https://youtu.be/J3W8aQkgsNI)
+
 
 
 ---
