@@ -1,7 +1,6 @@
 
 # **NetPractice**
 
-**Version:** 4.0
 **Summary:** Learn networking basics and how to configure networks step by step with hands-on exercises.
 
 ---
